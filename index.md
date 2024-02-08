@@ -7,3 +7,4 @@ hubo muchas variaciones de los pasajes de Lorem Ipsum disponibles, pero la mayor
   diccionario de mas de 200 palabras provenientes del latín, combinadas con estructuras muy 
   útiles de sentencias, para generar texto de Lorem Ipsum que parezca razonable. Este Lorem 
   Ipsum generado siempre estará libre de repeticiones, humor agregado o palabras no características del lenguaje, etc.
+  cambio de la nueva rama
